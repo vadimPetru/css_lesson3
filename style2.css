@@ -1,4 +1,4 @@
-#container{width: 720px;
+#container{width: 770px;
   text-align: justify;
   background-color: #fff;
   margin: auto;}
@@ -17,12 +17,12 @@ height: 240px;
 float: left;
 background-color: #fff;}
 
-#nav{width: 150px;
+#nav{width: 200px;
 height: 240px;
 float: left;
 background-color: #e7e7e7;}
 
-#header{height:50px; 
+#header{height:60px; 
 background-color:#b0b0b0;}
 
 ul{
@@ -46,8 +46,8 @@ color: white;
 font-weight: bold;}
 
  h1 {
-   margin-left: 40px;
-   padding-top: 14px;
+   margin-left: 30px;
+   padding-top: 25px;
  }
 
  h3{
@@ -55,7 +55,7 @@ font-weight: bold;}
  }
 
  p{
-   padding-right: 9px;
+   padding-right: 10px;
    padding-left: 11px; 
  }
 
